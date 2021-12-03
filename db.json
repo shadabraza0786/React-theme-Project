@@ -1,0 +1,151 @@
+{
+  "users": [
+    {
+      "name": "Gajraj Singh",
+      "username": "gajrajsingh0562",
+      "email": "gajrags@exp.com",
+      "phone": "98677898798",
+      "company": "HCL",
+      "website": "www.gajraj.com",
+      "id": 3
+    },
+    {
+      "name": "Vishal kumar",
+      "username": "vshalkumar0236",
+      "email": "vishalkumar@exp.com",
+      "phone": "987654321",
+      "company": "Redmi",
+      "website": "www.vishalkumar.com",
+      "id": 4
+    },
+    {
+      "name": "Shadab khan",
+      "username": "shadabkhan2352",
+      "email": "shadab@exp.com",
+      "phone": "9868988974",
+      "company": "Apple",
+      "website": "www.shadabkhan.com",
+      "id": 5
+    },
+    {
+      "name": "Shabbu khan",
+      "email": "shabbu@exp.com",
+      "phone": "9080706050",
+      "company": "xiomi",
+      "website": "www..shabbu.com",
+      "id": 6
+    },
+    {
+      "name": "Shadab Khan",
+      "email": "shadabkhan@exp.com",
+      "phone": "96632145875",
+      "company": "google",
+      "website": "www.google.com",
+      "id": 12
+    },
+    {
+      "name": "Ahmad Nazeer",
+      "email": "ahmadnazeer@chetu.com",
+      "phone": "98789899774",
+      "company": "google",
+      "website": "www.facebook.com",
+      "id": 14
+    },
+    {
+      "name": "Shahid kapoor",
+      "email": "shadhidkapoor@gmail.com",
+      "phone": "9874569006",
+      "company": "samsung",
+      "website": "www.facebook.com",
+      "id": 15
+    },
+    {
+      "name": "karishma kapoor",
+      "email": "karishmakapoor@gmail.com",
+      "phone": "98025643356",
+      "company": "vivo",
+      "website": "www.india.com",
+      "id": 16
+    },
+    {
+      "name": "Nazim khan",
+      "email": "nazim@exp.com",
+      "phone": "9878978987",
+      "company": "google",
+      "website": "www.google.com",
+      "id": 18
+    },
+    {
+      "name": "Shams khan",
+      "email": "shams@exp.com",
+      "phone": "98789899774",
+      "company": "google",
+      "website": "www.google.com",
+      "id": 19
+    },
+    {
+      "name": "Muneer",
+      "email": "muneer@exp.com",
+      "phone": "09945454959849",
+      "company": "google",
+      "website": "www.google.com",
+      "id": 20
+    },
+    {
+      "name": "Shadab Khan2",
+      "email": "shadabkhan2@exp.com",
+      "phone": "9876543211",
+      "company": "google",
+      "website": "www.google.com",
+      "id": 21
+    },
+    {
+      "name": "Shadab khan3",
+      "email": "shadabkhan3@gmail.com",
+      "phone": "9876543210",
+      "company": "chetu india ",
+      "website": "chetu.com",
+      "id": 22
+    },
+    {
+      "name": "Shadab Khan4",
+      "email": "shadabkhan4@exp.com",
+      "phone": "9876543201",
+      "company": "AskTech",
+      "website": "www.asktech.com",
+      "id": 23
+    },
+    {
+      "name": "Shadab Khan11",
+      "email": "shadabkhan11@exp.com",
+      "phone": "98745690062",
+      "company": "sauhanginfotechww",
+      "website": "www.asktech.com",
+      "id": 24
+    },
+    {
+      "name": "Shadab Khan3",
+      "email": "shadabkhan3@exp.com",
+      "phone": "98765443322",
+      "company": "google",
+      "website": "www.google.com",
+      "id": 25
+    },
+    {
+      "name": "Shadab Raza11",
+      "email": "ahmadraza11@exp.com",
+      "phone": "9874569006",
+      "company": "vivo",
+      "website": "chetu.com",
+      "id": 26
+    },
+    {
+      "name": "Shadab khan 12",
+      "email": "shadabkhan@exp.com",
+      "phone": "98745698956",
+      "company": "google",
+      "website": "www.google.com",
+      "id": 28
+    }
+  ]
+}

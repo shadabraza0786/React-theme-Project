@@ -1,0 +1,106 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*
+{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+}
+.links
+{
+    margin-left: auto;
+}
+.links a
+{
+    text-decoration: none;
+    padding: 5px;
+    color:White;
+    margin-right:20px
+}
+.heading{
+    text-align: center;
+    margin-top: 50px;
+}
+.pera1
+{
+    margin-top:20px;
+    margin-left:150px;
+    margin-right:150px;
+}
+button{
+    margin-left:600px;
+}
+.header-links
+{
+    margin-left: auto;
+    margin-right:20px
+}
+
+.sidebar{
+    width: 13rem;
+    background: #2F2F2F;
+    height: 100vh;
+    position: fixed;
+  } 
+.sidebarMenu
+{
+    max-height: calc(100% - 300px);
+    overflow-y: auto;
+}
+.container
+{
+    margin-left: 225px;
+    margin-top: 10px;
+    padding: 20px;
+} */
+.buttonstyle 
+{
+    width:90px;
+    height:40px;
+    background-color: rgb(5, 87, 180);
+    margin-left:15px;
+    padding-top:7px;
+    color:white;
+    border-radius: 5px;
+}
+.buttonstyle a
+{
+    text-decoration: none;
+    color:white;
+}
+.buttonstyle2 
+{
+    width:50px;
+    height:35px;
+    background-color: rgb(5, 87, 180);
+    margin-top: 10px;
+    margin-left: 20px;
+    padding-top:5px;
+    color:white;
+    border-radius: 5px;
+    display: inline-block;
+}
+.buttonstyle a
+{
+    text-decoration: none;
+    color:white;
+}
+.buttonstyle3
+{
+    width:50px;
+    height:35px;
+    background-color:rgb(219, 33, 64);
+    margin-top: 10px;
+    margin-left: 20px;
+    padding-top:5px;
+    color:white;
+    border-radius: 5px;
+    display: inline-block;
+}
+.buttonstyle a
+{
+    text-decoration: none;
+    color:white;
+}
